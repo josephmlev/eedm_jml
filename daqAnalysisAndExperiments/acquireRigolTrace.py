@@ -23,7 +23,7 @@ SAVE_DIR = os.path.expanduser(
 )
 CHANNEL = 4
 CHUNK = int(1e5)
-PREFIX = "motFill_70dBGain_50OhmOnPD_sideLock"
+PREFIX = "motFill_70dBGain_50OhmOnPD_peakLock_4en9Torr_8AmpMotCoils_rgaOff_gateValveOpen"
 
 
 def fetch_waveform(scope, channel=CHANNEL):
