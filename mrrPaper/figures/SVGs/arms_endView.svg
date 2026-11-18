@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="85.0mm"
+   height="105.4mm"
+   viewBox="0 0 625 775"
+   version="1.1"
+   id="svg836"
+   sodipodi:docname="arms_endView.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:c2pa="http://c2pa.org/manifest">
+  <defs
+     id="defs840" />
+  <sodipodi:namedview
+     id="namedview838"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.1136543"
+     inkscape:cx="33.591113"
+     inkscape:cy="263.7612"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg836" />
+  <title
+     id="title692">Fig. 2: end views of (a) the cancel arm and (b) the return arm</title>
+  <rect
+     x="0"
+     y="0"
+     width="625"
+     height="775"
+     fill="white"
+     id="rect694" />
+  <text
+     x="20"
+     y="45"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30"
+     id="text696">(a) Cancel arm</text>
+  <rect
+     x="235.96"
+     y="250.71"
+     width="196.61"
+     height="196.6"
+     fill="none"
+     stroke="#000"
+     stroke-width="2.8"
+     id="rect698" />
+  <rect
+     x="334.27"
+     y="103.18"
+     width="196.6"
+     height="278.04"
+     fill="none"
+     stroke="#9400d3"
+     stroke-width="2.8"
+     id="rect700" />
+  <line
+     x1="334.27"
+     y1="242.2"
+     x2="530.87"
+     y2="242.2"
+     stroke="#9400d3"
+     stroke-width="2.0"
+     stroke-dasharray="14 8"
+     id="line702" />
+  <rect
+     x="230.0"
+     y="80.0"
+     width="208.53"
+     height="147.46"
+     fill="none"
+     stroke="#9400d3"
+     stroke-width="2.8"
+     id="rect704" />
+  <line
+     x1="334.27"
+     y1="80.0"
+     x2="334.27"
+     y2="227.46"
+     stroke="#9400d3"
+     stroke-width="2.0"
+     id="line706" />
+  <circle
+     cx="294.65"
+     cy="242.2"
+     r="99.77"
+     fill="none"
+     stroke="#a52a2a"
+     stroke-width="2.8"
+     id="circle708" />
+  <line
+     x1="294.65"
+     y1="242.2"
+     x2="344.53"
+     y2="155.79"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     id="line710" />
+  <line
+     x1="294.65"
+     y1="242.2"
+     x2="344.53"
+     y2="328.62"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     id="line712" />
+  <line
+     x1="294.65"
+     y1="242.2"
+     x2="194.87"
+     y2="242.2"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     id="line714" />
+  <line
+     x1="294.65"
+     y1="242.2"
+     x2="244.76"
+     y2="155.79"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="line716" />
+  <line
+     x1="294.65"
+     y1="242.2"
+     x2="244.76"
+     y2="328.62"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="line718" />
+  <line
+     x1="294.65"
+     y1="242.2"
+     x2="394.43"
+     y2="242.2"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="line720" />
+  <circle
+     cx="294.65"
+     cy="242.2"
+     r="2.2"
+     fill="#a52a2a"
+     id="circle722" />
+  <circle
+     cx="294.65"
+     cy="175.7"
+     r="33.26"
+     fill="none"
+     stroke="#000"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="circle724" />
+  <circle
+     cx="294.65"
+     cy="308.71"
+     r="33.26"
+     fill="none"
+     stroke="#000"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="circle726" />
+  <circle
+     cx="294.65"
+     cy="175.7"
+     r="11"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="3"
+     id="circle728" />
+  <circle
+     cx="294.65"
+     cy="175.7"
+     r="4"
+     fill="#F07D1A"
+     id="circle730" />
+  <text
+     x="294.65"
+     y="157.7"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="28"
+     text-anchor="middle"
+     id="text732">A</text>
+  <circle
+     cx="373.89"
+     cy="175.7"
+     r="11"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="3"
+     id="circle734" />
+  <path
+     d="M 366.69 168.5 L 381.09 182.89999999999998 M 366.69 182.89999999999998 L 381.09 168.5"
+     stroke="#F07D1A"
+     stroke-width="3"
+     fill="none"
+     id="path736" />
+  <text
+     x="373.89"
+     y="157.7"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="28"
+     text-anchor="middle"
+     id="text738">B</text>
+  <circle
+     cx="294.65"
+     cy="308.71"
+     r="11"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="3"
+     id="circle740" />
+  <path
+     d="M 287.45 301.51 L 301.84999999999997 315.90999999999997 M 287.45 315.90999999999997 L 301.84999999999997 301.51"
+     stroke="#0057B7"
+     stroke-width="3"
+     fill="none"
+     id="path742" />
+  <text
+     x="278.65"
+     y="346.71"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text744">From 4</text>
+  <circle
+     cx="373.89"
+     cy="308.71"
+     r="11"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="3"
+     id="circle746" />
+  <circle
+     cx="373.89"
+     cy="308.71"
+     r="4"
+     fill="#0057B7"
+     id="circle748" />
+  <text
+     x="389.89"
+     y="346.71"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text750">To 5</text>
+  <g
+     stroke="#000"
+     stroke-width="2.2"
+     fill="#000"
+     id="g764">
+    <line
+       x1="81"
+       y1="190"
+       x2="130"
+       y2="190"
+       id="line752" />
+    <polygon
+       points="144,190 130,183 130,197"
+       stroke="none"
+       id="polygon754" />
+    <line
+       x1="70"
+       y1="179"
+       x2="70"
+       y2="130"
+       id="line756" />
+    <polygon
+       points="70,116 63,130 77,130"
+       stroke="none"
+       id="polygon758" />
+    <circle
+       cx="70"
+       cy="190"
+       r="10"
+       fill="white"
+       id="circle760" />
+    <circle
+       cx="70"
+       cy="190"
+       r="3.4"
+       stroke="none"
+       id="circle762" />
+  </g>
+  <text
+     x="162"
+     y="199"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30"
+     font-style="italic"
+     text-anchor="middle"
+     id="text766">y</text>
+  <text
+     x="70"
+     y="108"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30"
+     font-style="italic"
+     text-anchor="middle"
+     id="text768">z</text>
+  <text
+     x="44"
+     y="224"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30"
+     font-style="italic"
+     text-anchor="middle"
+     id="text770">x</text>
+  <text
+     x="20"
+     y="510"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30"
+     id="text772">(b) Return arm</text>
+  <rect
+     x="253.5"
+     y="581.77"
+     width="122.87"
+     height="122.87"
+     fill="none"
+     stroke="#000"
+     stroke-width="2.8"
+     id="rect774" />
+  <rect
+     x="384.44"
+     y="581.77"
+     width="122.87"
+     height="122.87"
+     fill="none"
+     stroke="#000"
+     stroke-width="2.8"
+     id="rect776" />
+  <circle
+     cx="380.4"
+     cy="643.22"
+     r="98.2"
+     fill="none"
+     stroke="#a52a2a"
+     stroke-width="2.8"
+     id="circle778" />
+  <line
+     x1="380.4"
+     y1="643.22"
+     x2="380.4"
+     y2="545.0"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     id="line780" />
+  <line
+     x1="380.4"
+     y1="643.22"
+     x2="295.35"
+     y2="692.32"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     id="line782" />
+  <line
+     x1="380.4"
+     y1="643.22"
+     x2="465.45"
+     y2="692.32"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     id="line784" />
+  <line
+     x1="380.4"
+     y1="643.22"
+     x2="380.4"
+     y2="741.41"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="line786" />
+  <line
+     x1="380.4"
+     y1="643.22"
+     x2="295.35"
+     y2="594.1"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="line788" />
+  <line
+     x1="380.4"
+     y1="643.22"
+     x2="465.45"
+     y2="594.1"
+     stroke="#a52a2a"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="line790" />
+  <circle
+     cx="380.4"
+     cy="643.22"
+     r="2.2"
+     fill="#a52a2a"
+     id="circle792" />
+  <circle
+     cx="314.93"
+     cy="643.22"
+     r="32.74"
+     fill="none"
+     stroke="#000"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="circle796" />
+  <circle
+     cx="445.88"
+     cy="643.22"
+     r="32.74"
+     fill="none"
+     stroke="#000"
+     stroke-width="2.0"
+     stroke-dasharray="0.1 6"
+     stroke-linecap="round"
+     id="circle800" />
+  <circle
+     cx="314.93"
+     cy="643.22"
+     r="11"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="3"
+     id="circle802" />
+  <circle
+     cx="314.93"
+     cy="643.22"
+     r="4"
+     fill="#0057B7"
+     id="circle804" />
+  <circle
+     cx="445.88"
+     cy="643.22"
+     r="11"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="3"
+     id="circle806" />
+  <path
+     d="M 438.68 636.02 L 453.08 650.4200000000001 M 438.68 650.4200000000001 L 453.08 636.02"
+     stroke="#0057B7"
+     stroke-width="3"
+     fill="none"
+     id="path808" />
+  <text
+     x="243.5"
+     y="652.22"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="end"
+     id="text810">prism</text>
+  <text
+     x="517.31"
+     y="652.22"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text812">PBS</text>
+  <g
+     stroke="#000"
+     stroke-width="2.2"
+     fill="#000"
+     id="g826">
+    <line
+       x1="99"
+       y1="665"
+       x2="50"
+       y2="665"
+       id="line814" />
+    <polygon
+       points="36,665 50,658 50,672"
+       stroke="none"
+       id="polygon816" />
+    <line
+       x1="110"
+       y1="654"
+       x2="110"
+       y2="605"
+       id="line818" />
+    <polygon
+       points="110,591 103,605 117,605"
+       stroke="none"
+       id="polygon820" />
+    <circle
+       cx="110"
+       cy="665"
+       r="10"
+       fill="white"
+       id="circle822" />
+    <path
+       d="M 103.5 658.5 L 116.5 671.5 M 103.5 671.5 L 116.5 658.5"
+       fill="none"
+       id="path824" />
+  </g>
+  <text
+     x="18"
+     y="674"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30"
+     font-style="italic"
+     text-anchor="middle"
+     id="text828">y</text>
+  <text
+     x="110"
+     y="583"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30"
+     font-style="italic"
+     text-anchor="middle"
+     id="text830">z</text>
+  <text
+     x="136"
+     y="699"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30"
+     font-style="italic"
+     text-anchor="middle"
+     id="text832">x</text>
+  <metadata
+     id="metadata834">
+    <c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5YjgwYWMzYy0xMTE1LTQ2MjktYTBiMS02MWNjOTA3ZmE0MjEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAYfkbvtPOzR8yp+BZjSExkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDowZjZjOGY1Ny1jYTdkLTRkNjktYWE4Ni05NGE0YmIzZWZkMWFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoi3U//QWDWGhqb4CUDIt7ygAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg9lbN3PLAnnlODY4xWMqLyb62zNoS0bzdVu92Ep+Nef6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFcNOLu0HpzS20D/FO10yGwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIIl0Lk8/T1jWF4GGRAURjF8Z6kzh6C2j+5WoyAass2lsZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GRyCZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjliODBhYzNjLTExMTUtNDYyOS1hMGIxLTYxY2M5MDdmYTQyMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjhiNTY0YWQ1LThmNzgtNDg2NC1iMmRkLTU4MWI0YjMyNGIwNnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD2Vs3c8sCeeU4NjjFYyovJvrbM2hLRvN1W73YSn415/qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggFEsFB1BHcrg1jKADnJIqVooHyYid7abMJAClITofhQeiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggv/spdSid8z9Oz9d6VmhHTmY9KhBXqZNM9bih1Z5AJL50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJCkUwcNTKHR1baX4kmQ07DL9u5AzJYUxXUzB/tGbsBotQkf43e1M19zh4kUefmMvGHHqOqGkN1370sosxxQQ5o=</c2pa:manifest>
+  </metadata>
+</svg>
