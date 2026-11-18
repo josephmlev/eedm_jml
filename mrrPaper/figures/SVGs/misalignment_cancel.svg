@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="84.9mm"
+   height="120.2mm"
+   viewBox="0 0 624 884"
+   version="1.1"
+   id="svg3226"
+   sodipodi:docname="misalignment_cancel.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="misalignment_cancel.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:c2pa="http://c2pa.org/manifest">
+  <defs
+     id="defs3230" />
+  <sodipodi:namedview
+     id="namedview3228"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8534041"
+     inkscape:cx="29.135578"
+     inkscape:cy="305.11425"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3226" />
+  <title
+     id="title2776">Fig. 8: spot patterns for misalignments of the beam returning from the cancel arm</title>
+  <rect
+     width="624"
+     height="884"
+     fill="#ffffff"
+     id="rect2778"
+     x="-0.23563695"
+     y="-2.0304685" />
+  <g
+     stroke="#000"
+     stroke-width="2.2"
+     fill="#000"
+     id="g2792">
+    <line
+       x1="57"
+       y1="82"
+       x2="91"
+       y2="82"
+       id="line2780" />
+    <polygon
+       points="105,82 91,75 91,89"
+       stroke="none"
+       id="polygon2782" />
+    <line
+       x1="46"
+       y1="71"
+       x2="46"
+       y2="37"
+       id="line2784" />
+    <polygon
+       points="46,23 39,37 53,37"
+       stroke="none"
+       id="polygon2786" />
+    <circle
+       cx="46"
+       cy="82"
+       r="10"
+       fill="white"
+       id="circle2788" />
+    <path
+       d="M 39.5 75.5 L 52.5 88.5 M 39.5 88.5 L 52.5 75.5"
+       fill="none"
+       id="path2790" />
+  </g>
+  <text
+     x="121"
+     y="91"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="28"
+     font-style="italic"
+     text-anchor="middle"
+     id="text2794">x</text>
+  <text
+     x="46"
+     y="17"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="28"
+     font-style="italic"
+     text-anchor="middle"
+     id="text2796">z</text>
+  <text
+     x="22"
+     y="114"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="28"
+     font-style="italic"
+     text-anchor="middle"
+     id="text2798">y</text>
+  <circle
+     cx="156.45"
+     cy="300.56"
+     r="140.91"
+     fill="none"
+     stroke="#0000e0"
+     stroke-width="2.4"
+     id="circle2800" />
+  <line
+     x1="156.45"
+     y1="300.56"
+     x2="226.91"
+     y2="178.51"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line2802" />
+  <line
+     x1="156.45"
+     y1="300.56"
+     x2="226.91"
+     y2="422.6"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line2804" />
+  <line
+     x1="156.45"
+     y1="300.56"
+     x2="15.54"
+     y2="300.56"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line2806" />
+  <line
+     x1="156.45"
+     y1="300.56"
+     x2="85.99"
+     y2="178.51"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2808" />
+  <line
+     x1="156.45"
+     y1="300.56"
+     x2="85.99"
+     y2="422.6"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2810" />
+  <line
+     x1="156.45"
+     y1="300.56"
+     x2="297.37"
+     y2="300.56"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2812" />
+  <circle
+     cx="156.45"
+     cy="300.56"
+     r="2.2"
+     fill="#0000e0"
+     id="circle2814" />
+  <circle
+     cx="156.45"
+     cy="261.34"
+     r="140.91"
+     fill="none"
+     stroke="#a52a2a"
+     stroke-width="2.4"
+     id="circle2816" />
+  <line
+     x1="156.45"
+     y1="261.34"
+     x2="156.45"
+     y2="120.42"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line2818" />
+  <line
+     x1="156.45"
+     y1="261.34"
+     x2="34.41"
+     y2="331.79"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line2820" />
+  <line
+     x1="156.45"
+     y1="261.34"
+     x2="278.48"
+     y2="331.79"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line2822" />
+  <line
+     x1="156.45"
+     y1="261.34"
+     x2="156.45"
+     y2="402.25"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2824" />
+  <line
+     x1="156.45"
+     y1="261.34"
+     x2="34.41"
+     y2="190.87"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2826" />
+  <line
+     x1="156.45"
+     y1="261.34"
+     x2="278.48"
+     y2="190.87"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2828" />
+  <circle
+     cx="156.45"
+     cy="261.34"
+     r="2.2"
+     fill="#a52a2a"
+     id="circle2830" />
+  <polygon
+     points="102.86,277.06 210.03,245.62 210.03,324.07 102.86,355.51"
+     fill="none"
+     stroke="#000"
+     stroke-width="1.8"
+     stroke-linejoin="round"
+     id="polygon2832" />
+  <rect
+     x="281.6"
+     y="328.0"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2834" />
+  <rect
+     x="8.8"
+     y="249.5"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2836" />
+  <rect
+     x="281.6"
+     y="249.5"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2838" />
+  <rect
+     x="8.8"
+     y="328.0"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2840" />
+  <rect
+     x="62.4"
+     y="328.0"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2842" />
+  <rect
+     x="228.0"
+     y="249.5"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2844" />
+  <rect
+     x="62.4"
+     y="249.5"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2846" />
+  <rect
+     x="228.0"
+     y="328.0"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2848" />
+  <circle
+     cx="49.27"
+     cy="261.34"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle2850" />
+  <circle
+     cx="49.27"
+     cy="261.34"
+     r="3"
+     fill="#F07D1A"
+     id="circle2852" />
+  <circle
+     cx="102.86"
+     cy="261.34"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle2854" />
+  <path
+     d="M 97.66 256.14 L 108.06 266.53999999999996 M 97.66 266.53999999999996 L 108.06 256.14"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     fill="none"
+     id="path2856" />
+  <circle
+     cx="210.03"
+     cy="261.34"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle2858" />
+  <circle
+     cx="210.03"
+     cy="261.34"
+     r="3"
+     fill="#F07D1A"
+     id="circle2860" />
+  <circle
+     cx="263.61"
+     cy="261.34"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle2862" />
+  <path
+     d="M 258.41 256.14 L 268.81 266.53999999999996 M 258.41 266.53999999999996 L 268.81 256.14"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     fill="none"
+     id="path2864" />
+  <circle
+     cx="49.27"
+     cy="339.79"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle2866" />
+  <circle
+     cx="49.27"
+     cy="339.79"
+     r="3"
+     fill="#0057B7"
+     id="circle2868" />
+  <circle
+     cx="102.86"
+     cy="339.79"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle2870" />
+  <path
+     d="M 97.66 334.59000000000003 L 108.06 344.99 M 97.66 344.99 L 108.06 334.59000000000003"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     fill="none"
+     id="path2872" />
+  <circle
+     cx="210.03"
+     cy="339.79"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle2874" />
+  <circle
+     cx="210.03"
+     cy="339.79"
+     r="3"
+     fill="#0057B7"
+     id="circle2876" />
+  <circle
+     cx="263.61"
+     cy="339.79"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle2878" />
+  <path
+     d="M 258.41 334.59000000000003 L 268.81 344.99 M 258.41 344.99 L 268.81 334.59000000000003"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     fill="none"
+     id="path2880" />
+  <circle
+     cx="102.86"
+     cy="355.51"
+     r="3.6"
+     fill="#000"
+     id="circle2882" />
+  <circle
+     cx="210.03"
+     cy="245.62"
+     r="3.6"
+     fill="#000"
+     id="circle2884" />
+  <circle
+     cx="102.86"
+     cy="277.06"
+     r="3.6"
+     fill="#000"
+     id="circle2886" />
+  <circle
+     cx="210.03"
+     cy="324.07"
+     r="3.6"
+     fill="#000"
+     id="circle2888" />
+  <text
+     x="284.61"
+     y="348.79"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text2890">1</text>
+  <text
+     x="28.270000000000003"
+     y="270.34"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="end"
+     id="text2892">2</text>
+  <text
+     x="284.61"
+     y="270.34"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text2894">3</text>
+  <text
+     x="28.270000000000003"
+     y="348.79"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="end"
+     id="text2896">4</text>
+  <text
+     x="81.86"
+     y="348.79"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="end"
+     id="text2898">5</text>
+  <text
+     x="231.03"
+     y="270.34"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text2900">6</text>
+  <text
+     x="81.86"
+     y="270.34"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="end"
+     id="text2902">7</text>
+  <text
+     x="231.03"
+     y="348.79"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text2904">8</text>
+  <text
+     x="156.45"
+     y="473.47"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="28"
+     text-anchor="middle"
+     id="text2906">A: Cancel-retro high</text>
+  <circle
+     cx="466.65"
+     cy="300.56"
+     r="140.91"
+     fill="none"
+     stroke="#0000e0"
+     stroke-width="2.4"
+     id="circle2908" />
+  <line
+     x1="466.65"
+     y1="300.56"
+     x2="537.11"
+     y2="178.51"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line2910" />
+  <line
+     x1="466.65"
+     y1="300.56"
+     x2="537.11"
+     y2="422.6"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line2912" />
+  <line
+     x1="466.65"
+     y1="300.56"
+     x2="325.74"
+     y2="300.56"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line2914" />
+  <line
+     x1="466.65"
+     y1="300.56"
+     x2="396.19"
+     y2="178.51"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2916" />
+  <line
+     x1="466.65"
+     y1="300.56"
+     x2="396.19"
+     y2="422.6"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2918" />
+  <line
+     x1="466.65"
+     y1="300.56"
+     x2="607.57"
+     y2="300.56"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2920" />
+  <circle
+     cx="466.65"
+     cy="300.56"
+     r="2.2"
+     fill="#0000e0"
+     id="circle2922" />
+  <circle
+     cx="466.65"
+     cy="261.34"
+     r="140.91"
+     fill="none"
+     stroke="#a52a2a"
+     stroke-width="2.4"
+     id="circle2924" />
+  <line
+     x1="466.65"
+     y1="261.34"
+     x2="466.65"
+     y2="120.42"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line2926" />
+  <line
+     x1="466.65"
+     y1="261.34"
+     x2="344.61"
+     y2="331.79"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line2928" />
+  <line
+     x1="466.65"
+     y1="261.34"
+     x2="588.68"
+     y2="331.79"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line2930" />
+  <line
+     x1="466.65"
+     y1="261.34"
+     x2="466.65"
+     y2="402.25"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2932" />
+  <line
+     x1="466.65"
+     y1="261.34"
+     x2="344.61"
+     y2="190.87"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2934" />
+  <line
+     x1="466.65"
+     y1="261.34"
+     x2="588.68"
+     y2="190.87"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line2936" />
+  <circle
+     cx="466.65"
+     cy="261.34"
+     r="2.2"
+     fill="#a52a2a"
+     id="circle2938" />
+  <polygon
+     points="428.78,261.34 504.51,261.34 504.51,339.79 428.78,339.79"
+     fill="none"
+     stroke="#000"
+     stroke-width="1.8"
+     stroke-linejoin="round"
+     id="polygon2940" />
+  <rect
+     x="562.59998"
+     y="352"
+     width="19.112331"
+     height="24.977215"
+     rx="2.548311"
+     fill="#ffffff"
+     fill-opacity="0.8"
+     id="rect2942"
+     style="stroke-width:0.881569" />
+  <rect
+     x="348.2"
+     y="226.5"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2944" />
+  <rect
+     x="562.6"
+     y="226.5"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2946" />
+  <rect
+     x="351.24493"
+     y="352"
+     width="19.45507"
+     height="24.919296"
+     rx="2.5940094"
+     fill="#ffffff"
+     fill-opacity="0.8"
+     id="rect2948"
+     style="stroke-width:0.888406" />
+  <rect
+     x="401.79999"
+     y="352"
+     width="20.034327"
+     height="22.626614"
+     rx="2.6712434"
+     fill="#ffffff"
+     fill-opacity="0.8"
+     id="rect2950"
+     style="stroke-width:0.859062" />
+  <rect
+     x="509.0"
+     y="226.5"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2952" />
+  <rect
+     x="401.8"
+     y="226.5"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect2954" />
+  <rect
+     x="512.19269"
+     y="352"
+     width="19.307299"
+     height="24.194305"
+     rx="2.5743065"
+     fill="#ffffff"
+     fill-opacity="0.8"
+     id="rect2956"
+     style="stroke-width:0.872057" />
+  <circle
+     cx="359.47"
+     cy="261.34"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle2958" />
+  <circle
+     cx="359.47"
+     cy="261.34"
+     r="3"
+     fill="#F07D1A"
+     id="circle2960" />
+  <circle
+     cx="413.06"
+     cy="261.34"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle2962" />
+  <path
+     d="M 407.86 256.14 L 418.26 266.53999999999996 M 407.86 266.53999999999996 L 418.26 256.14"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     fill="none"
+     id="path2964" />
+  <circle
+     cx="520.23"
+     cy="261.34"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle2966" />
+  <circle
+     cx="520.23"
+     cy="261.34"
+     r="3"
+     fill="#F07D1A"
+     id="circle2968" />
+  <circle
+     cx="573.81"
+     cy="261.34"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle2970" />
+  <path
+     d="M 568.6099999999999 256.14 L 579.01 266.53999999999996 M 568.6099999999999 266.53999999999996 L 579.01 256.14"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     fill="none"
+     id="path2972" />
+  <circle
+     cx="359.47"
+     cy="339.79"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle2974" />
+  <circle
+     cx="359.47"
+     cy="339.79"
+     r="3"
+     fill="#0057B7"
+     id="circle2976" />
+  <circle
+     cx="413.06"
+     cy="339.79"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle2978" />
+  <path
+     d="M 407.86 334.59000000000003 L 418.26 344.99 M 407.86 344.99 L 418.26 334.59000000000003"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     fill="none"
+     id="path2980" />
+  <circle
+     cx="520.23"
+     cy="339.79"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle2982" />
+  <circle
+     cx="520.23"
+     cy="339.79"
+     r="3"
+     fill="#0057B7"
+     id="circle2984" />
+  <circle
+     cx="573.81"
+     cy="339.79"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle2986" />
+  <path
+     d="M 568.6099999999999 334.59000000000003 L 579.01 344.99 M 568.6099999999999 344.99 L 579.01 334.59000000000003"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     fill="none"
+     id="path2988" />
+  <circle
+     cx="428.78"
+     cy="339.79"
+     r="3.6"
+     fill="#000"
+     id="circle2990" />
+  <circle
+     cx="504.51"
+     cy="261.34"
+     r="3.6"
+     fill="#000"
+     id="circle2992" />
+  <circle
+     cx="428.78"
+     cy="261.34"
+     r="3.6"
+     fill="#000"
+     id="circle2994" />
+  <circle
+     cx="504.51"
+     cy="339.79"
+     r="3.6"
+     fill="#000"
+     id="circle2996" />
+  <text
+     x="573.81"
+     y="372.79"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text2998">1</text>
+  <text
+     x="359.47"
+     y="247.33999999999997"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3000">2</text>
+  <text
+     x="573.81"
+     y="247.33999999999997"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3002">3</text>
+  <text
+     x="359.47"
+     y="372.79"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3004">4</text>
+  <text
+     x="413.06"
+     y="372.79"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3006">5</text>
+  <text
+     x="520.23"
+     y="247.33999999999997"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3008">6</text>
+  <text
+     x="413.06"
+     y="247.33999999999997"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3010">7</text>
+  <text
+     x="520.23"
+     y="372.79"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3012">8</text>
+  <text
+     x="466.65"
+     y="473.47"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="28"
+     text-anchor="middle"
+     id="text3014">B: Cancel-retro right</text>
+  <circle
+     cx="156.45"
+     cy="689.68"
+     r="140.91"
+     fill="none"
+     stroke="#0000e0"
+     stroke-width="2.4"
+     id="circle3016" />
+  <line
+     x1="156.45"
+     y1="689.68"
+     x2="226.91"
+     y2="567.63"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line3018" />
+  <line
+     x1="156.45"
+     y1="689.68"
+     x2="226.91"
+     y2="811.72"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line3020" />
+  <line
+     x1="156.45"
+     y1="689.68"
+     x2="15.54"
+     y2="689.68"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line3022" />
+  <line
+     x1="156.45"
+     y1="689.68"
+     x2="85.99"
+     y2="567.63"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3024" />
+  <line
+     x1="156.45"
+     y1="689.68"
+     x2="85.99"
+     y2="811.72"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3026" />
+  <line
+     x1="156.45"
+     y1="689.68"
+     x2="297.37"
+     y2="689.68"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3028" />
+  <circle
+     cx="156.45"
+     cy="689.68"
+     r="2.2"
+     fill="#0000e0"
+     id="circle3030" />
+  <circle
+     cx="156.45"
+     cy="650.46"
+     r="140.91"
+     fill="none"
+     stroke="#a52a2a"
+     stroke-width="2.4"
+     id="circle3032" />
+  <line
+     x1="156.45"
+     y1="650.46"
+     x2="156.45"
+     y2="509.54"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line3034" />
+  <line
+     x1="156.45"
+     y1="650.46"
+     x2="34.41"
+     y2="720.91"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line3036" />
+  <line
+     x1="156.45"
+     y1="650.46"
+     x2="278.48"
+     y2="720.91"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line3038" />
+  <line
+     x1="156.45"
+     y1="650.46"
+     x2="156.45"
+     y2="791.37"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3040" />
+  <line
+     x1="156.45"
+     y1="650.46"
+     x2="34.41"
+     y2="579.99"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3042" />
+  <line
+     x1="156.45"
+     y1="650.46"
+     x2="278.48"
+     y2="579.99"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3044" />
+  <circle
+     cx="156.45"
+     cy="650.46"
+     r="2.2"
+     fill="#a52a2a"
+     id="circle3046" />
+  <polygon
+     points="102.86,666.18 210.03,650.46 210.03,713.19 102.86,728.91"
+     fill="none"
+     stroke="#000"
+     stroke-width="1.8"
+     stroke-linejoin="round"
+     id="polygon3048" />
+  <rect
+     x="281.6"
+     y="717.1"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3050" />
+  <rect
+     x="8.8"
+     y="638.7"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3052" />
+  <rect
+     x="281.6"
+     y="638.7"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3054" />
+  <rect
+     x="8.8"
+     y="717.1"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3056" />
+  <rect
+     x="62.4"
+     y="717.1"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3058" />
+  <rect
+     x="228.0"
+     y="638.7"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3060" />
+  <rect
+     x="62.4"
+     y="638.7"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3062" />
+  <rect
+     x="228.0"
+     y="717.1"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3064" />
+  <circle
+     cx="49.27"
+     cy="650.46"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle3066" />
+  <circle
+     cx="49.27"
+     cy="650.46"
+     r="3"
+     fill="#F07D1A"
+     id="circle3068" />
+  <circle
+     cx="102.86"
+     cy="650.46"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle3070" />
+  <path
+     d="M 97.66 645.26 L 108.06 655.6600000000001 M 97.66 655.6600000000001 L 108.06 645.26"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     fill="none"
+     id="path3072" />
+  <circle
+     cx="210.03"
+     cy="650.46"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle3074" />
+  <circle
+     cx="210.03"
+     cy="650.46"
+     r="3"
+     fill="#F07D1A"
+     id="circle3076" />
+  <circle
+     cx="263.61"
+     cy="650.46"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle3078" />
+  <path
+     d="M 258.41 645.26 L 268.81 655.6600000000001 M 258.41 655.6600000000001 L 268.81 645.26"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     fill="none"
+     id="path3080" />
+  <circle
+     cx="49.27"
+     cy="728.91"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle3082" />
+  <circle
+     cx="49.27"
+     cy="728.91"
+     r="3"
+     fill="#0057B7"
+     id="circle3084" />
+  <circle
+     cx="102.86"
+     cy="728.91"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle3086" />
+  <path
+     d="M 97.66 723.7099999999999 L 108.06 734.11 M 97.66 734.11 L 108.06 723.7099999999999"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     fill="none"
+     id="path3088" />
+  <circle
+     cx="210.03"
+     cy="728.91"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle3090" />
+  <circle
+     cx="210.03"
+     cy="728.91"
+     r="3"
+     fill="#0057B7"
+     id="circle3092" />
+  <circle
+     cx="263.61"
+     cy="728.91"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle3094" />
+  <path
+     d="M 258.41 723.7099999999999 L 268.81 734.11 M 258.41 734.11 L 268.81 723.7099999999999"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     fill="none"
+     id="path3096" />
+  <circle
+     cx="102.86"
+     cy="666.18"
+     r="3.6"
+     fill="#000"
+     id="circle3098" />
+  <circle
+     cx="210.03"
+     cy="713.19"
+     r="3.6"
+     fill="#000"
+     id="circle3100" />
+  <text
+     x="284.61"
+     y="737.91"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text3102">1</text>
+  <text
+     x="28.270000000000003"
+     y="659.46"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="end"
+     id="text3104">2</text>
+  <text
+     x="284.61"
+     y="659.46"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text3106">3</text>
+  <text
+     x="28.270000000000003"
+     y="737.91"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="end"
+     id="text3108">4</text>
+  <text
+     x="81.86"
+     y="737.91"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="end"
+     id="text3110">5</text>
+  <text
+     x="231.03"
+     y="659.46"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text3112">6</text>
+  <text
+     x="81.86"
+     y="659.46"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="end"
+     id="text3114">7</text>
+  <text
+     x="231.03"
+     y="737.91"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text3116">8</text>
+  <text
+     x="156.45"
+     y="862.59"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="28"
+     text-anchor="middle"
+     id="text3118">C: Laser angles up</text>
+  <circle
+     cx="466.65"
+     cy="689.68"
+     r="140.91"
+     fill="none"
+     stroke="#0000e0"
+     stroke-width="2.4"
+     id="circle3120" />
+  <line
+     x1="466.65"
+     y1="689.68"
+     x2="537.11"
+     y2="567.63"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line3122" />
+  <line
+     x1="466.65"
+     y1="689.68"
+     x2="537.11"
+     y2="811.72"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line3124" />
+  <line
+     x1="466.65"
+     y1="689.68"
+     x2="325.74"
+     y2="689.68"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     id="line3126" />
+  <line
+     x1="466.65"
+     y1="689.68"
+     x2="396.19"
+     y2="567.63"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3128" />
+  <line
+     x1="466.65"
+     y1="689.68"
+     x2="396.19"
+     y2="811.72"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3130" />
+  <line
+     x1="466.65"
+     y1="689.68"
+     x2="607.57"
+     y2="689.68"
+     stroke="#0000e0"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3132" />
+  <circle
+     cx="466.65"
+     cy="689.68"
+     r="2.2"
+     fill="#0000e0"
+     id="circle3134" />
+  <circle
+     cx="466.65"
+     cy="650.46"
+     r="140.91"
+     fill="none"
+     stroke="#a52a2a"
+     stroke-width="2.4"
+     id="circle3136" />
+  <line
+     x1="466.65"
+     y1="650.46"
+     x2="466.65"
+     y2="509.54"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line3138" />
+  <line
+     x1="466.65"
+     y1="650.46"
+     x2="344.61"
+     y2="720.91"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line3140" />
+  <line
+     x1="466.65"
+     y1="650.46"
+     x2="588.68"
+     y2="720.91"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     id="line3142" />
+  <line
+     x1="466.65"
+     y1="650.46"
+     x2="466.65"
+     y2="791.37"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3144" />
+  <line
+     x1="466.65"
+     y1="650.46"
+     x2="344.61"
+     y2="579.99"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3146" />
+  <line
+     x1="466.65"
+     y1="650.46"
+     x2="588.68"
+     y2="579.99"
+     stroke="#a52a2a"
+     stroke-width="1.8"
+     stroke-dasharray="0.1 5"
+     stroke-linecap="round"
+     id="line3148" />
+  <circle
+     cx="466.65"
+     cy="650.46"
+     r="2.2"
+     fill="#a52a2a"
+     id="circle3150" />
+  <polygon
+     points="397.34,650.46 520.23,650.46 535.95,728.91 413.06,728.91"
+     fill="none"
+     stroke="#000"
+     stroke-width="1.8"
+     stroke-linejoin="round"
+     id="polygon3152" />
+  <rect
+     x="562.59998"
+     y="741.09998"
+     width="18.360462"
+     height="24.876385"
+     rx="2.4480617"
+     fill="#ffffff"
+     fill-opacity="0.8"
+     id="rect3154"
+     style="stroke-width:0.862309" />
+  <rect
+     x="348.2"
+     y="615.7"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3156" />
+  <rect
+     x="562.6"
+     y="615.7"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3158" />
+  <rect
+     x="349.64017"
+     y="741.09998"
+     width="21.059841"
+     height="23.342714"
+     rx="2.8079789"
+     fill="#ffffff"
+     fill-opacity="0.8"
+     id="rect3160"
+     style="stroke-width:0.894603" />
+  <rect
+     x="509.0"
+     y="615.7"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3164" />
+  <rect
+     x="401.8"
+     y="615.7"
+     width="22.5"
+     height="27.3"
+     rx="3"
+     fill="white"
+     fill-opacity="0.8"
+     id="rect3166" />
+  <circle
+     cx="359.47"
+     cy="650.46"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle3170" />
+  <circle
+     cx="359.47"
+     cy="650.46"
+     r="3"
+     fill="#F07D1A"
+     id="circle3172" />
+  <circle
+     cx="413.06"
+     cy="650.46"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle3174" />
+  <path
+     d="M 407.86 645.26 L 418.26 655.6600000000001 M 407.86 655.6600000000001 L 418.26 645.26"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     fill="none"
+     id="path3176" />
+  <circle
+     cx="520.23"
+     cy="650.46"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle3178" />
+  <circle
+     cx="520.23"
+     cy="650.46"
+     r="3"
+     fill="#F07D1A"
+     id="circle3180" />
+  <circle
+     cx="573.81"
+     cy="650.46"
+     r="8"
+     fill="white"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     id="circle3182" />
+  <path
+     d="M 568.6099999999999 645.26 L 579.01 655.6600000000001 M 568.6099999999999 655.6600000000001 L 579.01 645.26"
+     stroke="#F07D1A"
+     stroke-width="2.4"
+     fill="none"
+     id="path3184" />
+  <circle
+     cx="359.47"
+     cy="728.91"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle3186" />
+  <circle
+     cx="359.47"
+     cy="728.91"
+     r="3"
+     fill="#0057B7"
+     id="circle3188" />
+  <circle
+     cx="413.06"
+     cy="728.91"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle3190" />
+  <path
+     d="M 407.86 723.7099999999999 L 418.26 734.11 M 407.86 734.11 L 418.26 723.7099999999999"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     fill="none"
+     id="path3192" />
+  <circle
+     cx="520.23"
+     cy="728.91"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle3194" />
+  <circle
+     cx="520.23"
+     cy="728.91"
+     r="3"
+     fill="#0057B7"
+     id="circle3196" />
+  <circle
+     cx="573.81"
+     cy="728.91"
+     r="8"
+     fill="white"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     id="circle3198" />
+  <path
+     d="M 568.6099999999999 723.7099999999999 L 579.01 734.11 M 568.6099999999999 734.11 L 579.01 723.7099999999999"
+     stroke="#0057B7"
+     stroke-width="2.4"
+     fill="none"
+     id="path3200" />
+  <circle
+     cx="397.34"
+     cy="650.46"
+     r="3.6"
+     fill="#000"
+     id="circle3202" />
+  <circle
+     cx="535.95"
+     cy="728.91"
+     r="3.6"
+     fill="#000"
+     id="circle3204" />
+  <text
+     x="573.81"
+     y="761.91"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3206">1</text>
+  <text
+     x="359.47"
+     y="636.46"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3208">2</text>
+  <text
+     x="573.81"
+     y="636.46"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3210">3</text>
+  <text
+     x="359.47"
+     y="761.91"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3212">4</text>
+  <text
+     x="413.06"
+     y="761.91"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3214">5</text>
+  <text
+     x="520.23"
+     y="636.46"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3216">6</text>
+  <text
+     x="413.06"
+     y="636.46"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3218">7</text>
+  <text
+     x="520.23"
+     y="761.91"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="middle"
+     id="text3220">8</text>
+  <text
+     x="466.65"
+     y="862.59"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="28"
+     text-anchor="middle"
+     id="text3222">D: Laser angles right</text>
+  <metadata
+     id="metadata3224">
+    <c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiMGUzM2I5YS0xMjEwLTRjMzYtOGRkOS1hYzExMGU5NjgwZmYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaORyxmCt1GKHcfxLnIkNllcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozYTc0OGZmOS0wMDI2LTRlM2YtOWVjYi1hNTAyNGU3NGI5ZGRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNooSvf9twB+tfz+GR6GueOHQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggpSm8lU8addEnsYlDPKykABArDaqNXB6lgOGW9wQdPJqkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCov36QjcrvS8/9tcH672F0AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIGJt4PWsgqr9SXQTOF2ZzCxSImkEoSM1XO7ifurD4Z30ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GVrbZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmIwZTMzYjlhLTEyMTAtNGMzNi04ZGQ5LWFjMTEwZTk2ODBmZi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmUzNTA4YzAxLTM2OGItNDgyMC05MjVjLTQwN2VlYzk0ZTYzOHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCClKbyVTxp10SexiUM8rKQAECsNqo1cHqWA4Zb3BB08mqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggG1wT8KAPIpug9RrE5u3WrpUyZGvt07hXZ+Wv3PauZzSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggndON0uNmhBfIjBrAESlqsh8BLFXvK93pQugql8LXU0F0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQI6K4Sex3IrMc7khYRJxu7lziG2CxXIlufxA/7uKrhzRYRWbac7+qgqno3Y6HefvMDzUraFpSLRBuefKuPVf000=</c2pa:manifest>
+  </metadata>
+</svg>
