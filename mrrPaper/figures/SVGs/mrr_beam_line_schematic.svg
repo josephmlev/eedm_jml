@@ -1,136 +1,1183 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="170mm" height="76.8mm" viewBox="0 40 1250 565" xmlns:c2pa="http://c2pa.org/manifest">
-<title>Moving-retroreflector beam line, top view</title>
-<defs>
-<linearGradient id="g-mirror-h" x1="0" y1="0" x2="1" y2="0"><stop offset="0.0056" stop-color="#89A4B6"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#89A4B6"/></linearGradient>
-<linearGradient id="g-mirror-v" x1="0" y1="0" x2="0" y2="1"><stop offset="0.0056" stop-color="#89A4B6"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#89A4B6"/></linearGradient>
-<linearGradient id="g-bs" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#89A4B6"/></linearGradient>
-<linearGradient id="g-wp-half-v" x1="0" y1="0" x2="0" y2="1"><stop offset="0.0056" stop-color="#73BE1E"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#73BE1E"/></linearGradient>
-<linearGradient id="g-wp-half-h" x1="0" y1="0" x2="1" y2="0"><stop offset="0.0056" stop-color="#73BE1E"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#73BE1E"/></linearGradient>
-<linearGradient id="g-wp-quarter-v" x1="0" y1="0" x2="0" y2="1"><stop offset="0.0056" stop-color="#FF9900"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FF9900"/></linearGradient>
-<linearGradient id="g-wp-quarter-h" x1="0" y1="0" x2="1" y2="0"><stop offset="0.0056" stop-color="#FF9900"/><stop offset="0.5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FF9900"/></linearGradient>
-<linearGradient xlink:href="#XMLID_4_" id="linearGradient4550" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.8,0,0,-0.8,-254.9407,-236.2836)" x1="-329.77151" y1="-295.8237" x2="-329.77151" y2="-324.17041" /> <g id="lib-fiber-coupler" transform="translate(66.83603 -983.95601242188) translate(0,1.242188e-5)"><g style="display:inline" id="g3300" transform="translate(-67.21103,983.581)"> <g id="g3230"> <linearGradient gradientTransform="matrix(-0.8,0,0,-0.8,-254.9407,-236.2836)" y2="-324.17041" x2="-329.77151" y1="-295.8237" x1="-329.77151" gradientUnits="userSpaceOnUse" id="XMLID_4_"> <stop id="stop3233" style="stop-color:#FFFFFF" offset="0" /> <stop id="stop3235" style="stop-color:#C4C4C4" offset="0.1314" /> <stop id="stop3237" style="stop-color:#5C5C5C" offset="0.3752" /> <stop id="stop3239" style="stop-color:#1A1A1A" offset="0.5444" /> <stop id="stop3241" style="stop-color:#000000" offset="0.6236" /> <stop id="stop3243" style="stop-color:#151515" offset="0.6657" /> <stop id="stop3245" style="stop-color:#4C4C4C" offset="0.7529" /> <stop id="stop3247" style="stop-color:#A2A2A2" offset="0.8765" /> <stop id="stop3249" style="stop-color:#FFFFFF" offset="1" /> </linearGradient> <rect id="rect3251" height="22.677" width="5.6680002" y="0.375" x="6.0419998" style="fill:url(#linearGradient4550);stroke:black;stroke-width:0.75" /> <linearGradient gradientTransform="matrix(-0.8,0,0,-0.8,-254.9407,-236.2836)" y2="-320.6265" x2="-336.85739" y1="-299.36569" x1="-336.85739" gradientUnits="userSpaceOnUse" id="XMLID_5_"> <stop id="stop3254" style="stop-color:#FFFFFF" offset="0" /> <stop id="stop3256" style="stop-color:#C4C4C4" offset="0.1314" /> <stop id="stop3258" style="stop-color:#5C5C5C" offset="0.3752" /> <stop id="stop3260" style="stop-color:#1A1A1A" offset="0.5444" /> <stop id="stop3262" style="stop-color:#000000" offset="0.6236" /> <stop id="stop3264" style="stop-color:#151515" offset="0.6657" /> <stop id="stop3266" style="stop-color:#4C4C4C" offset="0.7529" /> <stop id="stop3268" style="stop-color:#A2A2A2" offset="0.8765" /> <stop id="stop3270" style="stop-color:#FFFFFF" offset="1" /> </linearGradient> <rect id="rect3272" height="17.009001" width="5.6680002" y="3.2090001" x="11.711" style="fill:url(#XMLID_5_);stroke:black;stroke-width:0.75" /> <linearGradient gradientTransform="matrix(-0.8,0,0,-0.8,-254.9407,-236.2836)" y2="-313.5405" x2="-322.68851" y1="-306.45361" x1="-322.68851" gradientUnits="userSpaceOnUse" id="XMLID_6_"> <stop id="stop3275" style="stop-color:#FFFFFF" offset="0" /> <stop id="stop3277" style="stop-color:#C4C4C4" offset="0.1314" /> <stop id="stop3279" style="stop-color:#5C5C5C" offset="0.3752" /> <stop id="stop3281" style="stop-color:#1A1A1A" offset="0.5444" /> <stop id="stop3283" style="stop-color:#000000" offset="0.6236" /> <stop id="stop3285" style="stop-color:#151515" offset="0.6657" /> <stop id="stop3287" style="stop-color:#4C4C4C" offset="0.7529" /> <stop id="stop3289" style="stop-color:#A2A2A2" offset="0.8765" /> <stop id="stop3291" style="stop-color:#FFFFFF" offset="1" /> </linearGradient> <rect id="rect3293" height="5.6690001" width="5.6680002" y="8.8789997" x="0.375" style="fill:url(#XMLID_6_);stroke:black;stroke-width:0.75" /> </g> </g> </g>
-</defs>
-<rect x="0" y="40" width="1250" height="565" fill="white"/>
-<g id="arm-boxes" fill="none" stroke="#555" stroke-width="1.8" stroke-dasharray="9 6">
-<rect x="42" y="290" width="308" height="136" rx="6"/>
-<rect x="830" y="168" width="390" height="204" rx="6"/>
-</g>
-<text x="42" y="280" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="30" text-anchor="start">Cancel arm</text>
-<text x="830" y="158" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="30" text-anchor="start">Return arm</text>
-<g id="optics">
-<polygon points="430,250 600,250 430,420" fill="#eef3f6" stroke="#000" stroke-width="2.8" stroke-linejoin="miter"/>
-<polygon points="800,250 630,250 800,420" fill="#eef3f6" stroke="#000" stroke-width="2.8" stroke-linejoin="miter"/>
-<rect x="430" y="96" width="370" height="14" fill="#000" stroke="#000" stroke-width="1"/>
-<rect x="430" y="110" width="370" height="46" fill="url(#g-mirror-h)" stroke="#0000e0" stroke-width="2.8"/>
-<rect x="430" y="520" width="370" height="14" fill="#000" stroke="#000" stroke-width="1"/>
-<rect x="430" y="474" width="370" height="46" fill="url(#g-mirror-h)" stroke="#a52a2a" stroke-width="2.8"/>
-<rect x="58" y="322" width="14" height="84" fill="#000" stroke="#000" stroke-width="1"/>
-<rect x="72" y="322" width="34" height="84" fill="url(#g-mirror-v)" stroke="#a52a2a" stroke-width="2.8"/>
-<rect x="176" y="318" width="30" height="32" fill="#eef3f6" stroke="#9400d3" stroke-width="2.8"/>
-<line x1="185" y1="318" x2="185" y2="350" stroke="#9400d3" stroke-width="1.2"/>
-<polygon points="288,305.0 330,347.0 288,389.0" fill="#eef3f6" stroke="#9400d3" stroke-width="2.8" stroke-linejoin="miter"/>
-<rect x="950" y="285" width="50" height="50" fill="url(#g-bs)" stroke="#800080" stroke-width="2.8"/>
-<line x1="950" y1="335" x2="1000" y2="285" stroke="#800080" stroke-width="2.8"/>
-<polygon points="950,253 1000,203 1000,253" fill="#eef3f6" stroke="#800080" stroke-width="2.8" stroke-linejoin="miter"/>
-<rect x="1184" y="198" width="14" height="142" fill="#000" stroke="#000" stroke-width="1"/>
-<rect x="1150" y="198" width="34" height="142" fill="url(#g-mirror-v)" stroke="#a52a2a" stroke-width="2.8"/>
-<rect x="872" y="375" width="50" height="50" fill="url(#g-bs)" stroke="#000" stroke-width="2.0"/>
-<line x1="872" y1="375" x2="922" y2="425" stroke="#000" stroke-width="2.0"/>
-<polygon points="922,375 972,425 922,425" fill="#eef3f6" stroke="#000" stroke-width="2.0" stroke-linejoin="miter"/>
-</g>
-<g id="beams">
-<polyline points="897,552 897,400 780,400 780,133.0" fill="none" stroke="#1f77d0" stroke-width="2.6" stroke-linejoin="miter"/>
-<polyline points="690,133.0 690,310 1167.0,310" fill="none" stroke="#1f77d0" stroke-width="2.6" stroke-linejoin="miter"/>
-<polyline points="1167.0,228 975,228 975,310" fill="none" stroke="#1f77d0" stroke-width="2.6" stroke-linejoin="miter"/>
-<polyline points="480,133.0 480,370 89.0,370" fill="none" stroke="#1f77d0" stroke-width="2.6" stroke-linejoin="miter"/>
-<polyline points="89.0,362 315.0,362 315.0,332 190,332" fill="none" stroke="#d62728" stroke-width="2.6" stroke-linejoin="miter"/>
-<polyline points="190,340 510,340 510,133.0" fill="none" stroke="#1f77d0" stroke-width="2.6" stroke-linejoin="miter"/>
-<line x1="450" y1="133.0" x2="450" y2="497.0" stroke="#d62728" stroke-width="2.6"/>
-<line x1="540" y1="133.0" x2="540" y2="497.0" stroke="#d62728" stroke-width="2.6"/>
-<line x1="720" y1="133.0" x2="720" y2="497.0" stroke="#d62728" stroke-width="2.6"/>
-<line x1="750" y1="133.0" x2="750" y2="497.0" stroke="#d62728" stroke-width="2.6"/>
-<line x1="89.0" y1="362" x2="89.0" y2="370" stroke="#666" stroke-width="1.4"/>
-<line x1="190" y1="332" x2="190" y2="340" stroke="#666" stroke-width="1.4"/>
-<polyline points="897,400 947,400 947,605" fill="none" stroke="#1f77d0" stroke-width="2.6" stroke-linejoin="miter" stroke-dasharray="10 7"/>
-</g>
-<g id="waveplates">
-<rect x="847" y="286" width="10" height="48" fill="url(#g-wp-quarter-v)" stroke="#000" stroke-width="1.6"/>
-<text x="852" y="278" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="middle">&#955;/4</text>
-<rect x="897" y="286" width="10" height="48" fill="url(#g-wp-half-v)" stroke="#000" stroke-width="1.6"/>
-<text x="902" y="278" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="middle">&#955;/2</text>
-<rect x="1097" y="204" width="10" height="48" fill="url(#g-wp-quarter-v)" stroke="#000" stroke-width="1.6"/>
-<text x="1102" y="196" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="middle">&#955;/4</text>
-<rect x="1047" y="204" width="10" height="48" fill="url(#g-wp-half-v)" stroke="#000" stroke-width="1.6"/>
-<text x="1052" y="196" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="middle">&#955;/2</text>
-<rect x="873" y="460" width="48" height="10" fill="url(#g-wp-quarter-h)" stroke="#000" stroke-width="1.6"/>
-<text x="865" y="474" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="end">&#955;/4</text>
-<rect x="873" y="510" width="48" height="10" fill="url(#g-wp-half-h)" stroke="#000" stroke-width="1.6"/>
-<text x="865" y="524" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="end">&#955;/2</text>
-</g>
-<use xlink:href="#lib-fiber-coupler" transform="translate(872.06 589.41) rotate(-90) scale(2.2)"/>
-<g id="arrows">
-<polygon points="450,214.0 443,196.0 457,196.0" fill="#d62728" stroke="#d62728" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="480,214.0 473,196.0 487,196.0" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="510,196.0 503,214.0 517,214.0" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="540,196.0 533,214.0 547,214.0" fill="#d62728" stroke="#d62728" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="690,214.0 683,196.0 697,196.0" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="720,214.0 713,196.0 727,196.0" fill="#d62728" stroke="#d62728" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="750,196.0 743,214.0 757,214.0" fill="#d62728" stroke="#d62728" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="780,196.0 773,214.0 787,214.0" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="375.0,370 393.0,363 393.0,377" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="393.0,340 375.0,333 375.0,347" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="256.0,362 238.0,355 238.0,369" fill="#d62728" stroke="#d62728" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="238.0,332 256.0,325 256.0,339" fill="#d62728" stroke="#d62728" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="835.0,310 817.0,303 817.0,317" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="817.0,400 835.0,393 835.0,407" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="1135.0,310 1117.0,303 1117.0,317" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="1117.0,228 1135.0,221 1135.0,235" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="975,278.0 968,260.0 982,260.0" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="897,531.0 890,549.0 904,549.0" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-<polygon points="947,549.0 940,531.0 954,531.0" fill="#1f77d0" stroke="#1f77d0" stroke-width="0.8" stroke-linejoin="miter"/>
-</g>
-<g id="labels">
-<text x="450" y="88" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">2</text>
-<text x="480" y="88" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">4</text>
-<text x="510" y="88" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">5</text>
-<text x="540" y="88" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">7</text>
-<text x="690" y="88" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">8</text>
-<text x="720" y="88" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">6</text>
-<text x="750" y="88" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">3</text>
-<text x="780" y="88" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">1</text>
-<text x="450" y="564" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">2</text>
-<text x="540" y="564" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">7</text>
-<text x="720" y="564" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">6</text>
-<text x="750" y="564" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">3</text>
-<text x="822" y="114" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="30" text-anchor="start">Moving corner cube</text>
-<text x="410" y="506" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="30" text-anchor="end">Fixed corner cube</text>
-<text x="420" y="331" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="end">5</text>
-<text x="420" y="398" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="end">4</text>
-<text x="141.0" y="352" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">A</text>
-<text x="222.0" y="322" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="28" text-anchor="middle">B</text>
-<text x="975" y="365" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="middle">PBS</text>
-<text x="862" y="387" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="end">PBS</text>
-</g>
-<g id="motion" stroke="#222" stroke-width="2.2" fill="#222">
-<line x1="406" y1="106" x2="406" y2="160"/>
-<polygon points="406,94 399,107 413,107" stroke="none"/>
-<polygon points="406,172 399,159 413,159" stroke="none"/>
-</g>
-<g id="axes" stroke="#000" stroke-width="2.2" fill="#000">
-<line x1="81" y1="196" x2="130" y2="196"/>
-<polygon points="144,196 130,189 130,203" stroke="none"/>
-<line x1="70" y1="185" x2="70" y2="136"/>
-<polygon points="70,122 63,136 77,136" stroke="none"/>
-<circle cx="70" cy="196" r="10" fill="white"/>
-<circle cx="70" cy="196" r="3.4" stroke="none"/>
-</g>
-<text x="162" y="205" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="30" text-anchor="middle" font-style="italic">x</text>
-<text x="70" y="114" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="30" text-anchor="middle" font-style="italic">y</text>
-<text x="100" y="226" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="30" text-anchor="middle" font-style="italic">z</text>
-<line x1="1000" y1="452" x2="1040" y2="452" stroke="#1f77d0" stroke-width="2.6"/>
-<text x="1052" y="461" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="start">lower level</text>
-<line x1="1000" y1="490" x2="1040" y2="490" stroke="#d62728" stroke-width="2.6"/>
-<text x="1052" y="499" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="start">upper level</text>
-<line x1="1000" y1="528" x2="1040" y2="528" stroke="#1f77d0" stroke-width="2.6" stroke-dasharray="10 7"/>
-<text x="1052" y="537" font-family="DejaVu Serif, 'Times New Roman', Times, serif" font-size="26" text-anchor="start">exit beam</text>
-<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiYzk1NDFmZi1hYmM2LTQ0NGMtYjBiNy02ZjEzMDdlMTQxYzEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaERH1Ui5vhgcpnpcU5NQZmUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxYzU5NDE0MS03ZDBjLTQ5OTAtYTNiNS1mZTZhODc5OTExYTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoU3Anyjc6OIos8uMqSb0FQgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggJ9XzBRf8FxLbD0fnzOgTRZyMSOQOHdaLJRqg+MEVN/WkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLQ+E9/xEoHVFsLuhAMP1R8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIFBClg1d0rDP8psUkoUrzBk6uA3Pemp9qQnVMEZ9+GwTZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GUJkZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmJjOTU0MWZmLWFiYzYtNDQ0Yy1iMGI3LTZmMTMwN2UxNDFjMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc3NDdjNjI3LTlhNzctNDkyMi04YmQzLWY5MzgzNTBmOGI4MXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAn1fMFF/wXEtsPR+fM6BNFnIxI5A4d1oslGqD4wRU39aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggj3Gt5KNpqIgQ6EMIB/QndjHlRUl5KQTvadmDYc8MdRmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggWGQv6OH2eaDNee73+Z3NZPQSXqecC+yApa6ZuRupaQF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJ9kyeqvNNrOXrd3FiUIeOq/Ku/e+sellL2LuL4Kp13yU1Ap+eO6LY9C2+tcKQ7AiXJfHcbd9mM3U6nM5ShbiKY=</c2pa:manifest></metadata></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="170mm"
+   height="76.8mm"
+   viewBox="0 40 1250 565"
+   version="1.1"
+   id="svg662"
+   sodipodi:docname="mrr_beam_line_schematic.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:c2pa="http://c2pa.org/manifest">
+  <sodipodi:namedview
+     id="namedview664"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="478.71129"
+     inkscape:cy="200.9951"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="beams" />
+  <title
+     id="title350">Moving-retroreflector beam line, top view</title>
+  <defs
+     id="defs436">
+    <linearGradient
+       id="g-mirror-h"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0.0056"
+         stop-color="#89A4B6"
+         id="stop352" />
+      <stop
+         offset="0.5"
+         stop-color="#FFFFFF"
+         id="stop354" />
+      <stop
+         offset="1"
+         stop-color="#89A4B6"
+         id="stop356" />
+    </linearGradient>
+    <linearGradient
+       id="g-mirror-v"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0.0056"
+         stop-color="#89A4B6"
+         id="stop359" />
+      <stop
+         offset="0.5"
+         stop-color="#FFFFFF"
+         id="stop361" />
+      <stop
+         offset="1"
+         stop-color="#89A4B6"
+         id="stop363" />
+    </linearGradient>
+    <linearGradient
+       id="g-bs"
+       x1="0"
+       y1="1"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0"
+         stop-color="#FFFFFF"
+         id="stop366" />
+      <stop
+         offset="1"
+         stop-color="#89A4B6"
+         id="stop368" />
+    </linearGradient>
+    <linearGradient
+       id="g-wp-half-v"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0.0056"
+         stop-color="#73BE1E"
+         id="stop371" />
+      <stop
+         offset="0.5"
+         stop-color="#FFFFFF"
+         id="stop373" />
+      <stop
+         offset="1"
+         stop-color="#73BE1E"
+         id="stop375" />
+    </linearGradient>
+    <linearGradient
+       id="g-wp-half-h"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0.0056"
+         stop-color="#73BE1E"
+         id="stop378" />
+      <stop
+         offset="0.5"
+         stop-color="#FFFFFF"
+         id="stop380" />
+      <stop
+         offset="1"
+         stop-color="#73BE1E"
+         id="stop382" />
+    </linearGradient>
+    <linearGradient
+       id="g-wp-quarter-v"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0.0056"
+         stop-color="#FF9900"
+         id="stop385" />
+      <stop
+         offset="0.5"
+         stop-color="#FFFFFF"
+         id="stop387" />
+      <stop
+         offset="1"
+         stop-color="#FF9900"
+         id="stop389" />
+    </linearGradient>
+    <linearGradient
+       id="g-wp-quarter-h"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0">
+      <stop
+         offset="0.0056"
+         stop-color="#FF9900"
+         id="stop392" />
+      <stop
+         offset="0.5"
+         stop-color="#FFFFFF"
+         id="stop394" />
+      <stop
+         offset="1"
+         stop-color="#FF9900"
+         id="stop396" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#XMLID_4_"
+       id="linearGradient4550"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.8,0,0,-0.8,-254.9407,-236.2836)"
+       x1="-329.77151"
+       y1="-295.8237"
+       x2="-329.77151"
+       y2="-324.17041" />
+    <g
+       id="lib-fiber-coupler"
+       transform="translate(66.83603 -983.95601242188) translate(0,1.242188e-5)">
+      <g
+         style="display:inline"
+         id="g3300"
+         transform="translate(-67.21103,983.581)">
+        <g
+           id="g3230">
+          <linearGradient
+             gradientTransform="matrix(-0.8,0,0,-0.8,-254.9407,-236.2836)"
+             y2="-324.17041"
+             x2="-329.77151"
+             y1="-295.8237"
+             x1="-329.77151"
+             gradientUnits="userSpaceOnUse"
+             id="XMLID_4_">
+            <stop
+               id="stop3233"
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <stop
+               id="stop3235"
+               style="stop-color:#C4C4C4"
+               offset="0.1314" />
+            <stop
+               id="stop3237"
+               style="stop-color:#5C5C5C"
+               offset="0.3752" />
+            <stop
+               id="stop3239"
+               style="stop-color:#1A1A1A"
+               offset="0.5444" />
+            <stop
+               id="stop3241"
+               style="stop-color:#000000"
+               offset="0.6236" />
+            <stop
+               id="stop3243"
+               style="stop-color:#151515"
+               offset="0.6657" />
+            <stop
+               id="stop3245"
+               style="stop-color:#4C4C4C"
+               offset="0.7529" />
+            <stop
+               id="stop3247"
+               style="stop-color:#A2A2A2"
+               offset="0.8765" />
+            <stop
+               id="stop3249"
+               style="stop-color:#FFFFFF"
+               offset="1" />
+          </linearGradient>
+          <rect
+             id="rect3251"
+             height="22.677"
+             width="5.6680002"
+             y="0.375"
+             x="6.0419998"
+             style="fill:url(#linearGradient4550);stroke:black;stroke-width:0.75" />
+          <linearGradient
+             gradientTransform="matrix(-0.8,0,0,-0.8,-254.9407,-236.2836)"
+             y2="-320.6265"
+             x2="-336.85739"
+             y1="-299.36569"
+             x1="-336.85739"
+             gradientUnits="userSpaceOnUse"
+             id="XMLID_5_">
+            <stop
+               id="stop3254"
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <stop
+               id="stop3256"
+               style="stop-color:#C4C4C4"
+               offset="0.1314" />
+            <stop
+               id="stop3258"
+               style="stop-color:#5C5C5C"
+               offset="0.3752" />
+            <stop
+               id="stop3260"
+               style="stop-color:#1A1A1A"
+               offset="0.5444" />
+            <stop
+               id="stop3262"
+               style="stop-color:#000000"
+               offset="0.6236" />
+            <stop
+               id="stop3264"
+               style="stop-color:#151515"
+               offset="0.6657" />
+            <stop
+               id="stop3266"
+               style="stop-color:#4C4C4C"
+               offset="0.7529" />
+            <stop
+               id="stop3268"
+               style="stop-color:#A2A2A2"
+               offset="0.8765" />
+            <stop
+               id="stop3270"
+               style="stop-color:#FFFFFF"
+               offset="1" />
+          </linearGradient>
+          <rect
+             id="rect3272"
+             height="17.009001"
+             width="5.6680002"
+             y="3.2090001"
+             x="11.711"
+             style="fill:url(#XMLID_5_);stroke:black;stroke-width:0.75" />
+          <linearGradient
+             gradientTransform="matrix(-0.8,0,0,-0.8,-254.9407,-236.2836)"
+             y2="-313.5405"
+             x2="-322.68851"
+             y1="-306.45361"
+             x1="-322.68851"
+             gradientUnits="userSpaceOnUse"
+             id="XMLID_6_">
+            <stop
+               id="stop3275"
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <stop
+               id="stop3277"
+               style="stop-color:#C4C4C4"
+               offset="0.1314" />
+            <stop
+               id="stop3279"
+               style="stop-color:#5C5C5C"
+               offset="0.3752" />
+            <stop
+               id="stop3281"
+               style="stop-color:#1A1A1A"
+               offset="0.5444" />
+            <stop
+               id="stop3283"
+               style="stop-color:#000000"
+               offset="0.6236" />
+            <stop
+               id="stop3285"
+               style="stop-color:#151515"
+               offset="0.6657" />
+            <stop
+               id="stop3287"
+               style="stop-color:#4C4C4C"
+               offset="0.7529" />
+            <stop
+               id="stop3289"
+               style="stop-color:#A2A2A2"
+               offset="0.8765" />
+            <stop
+               id="stop3291"
+               style="stop-color:#FFFFFF"
+               offset="1" />
+          </linearGradient>
+          <rect
+             id="rect3293"
+             height="5.6690001"
+             width="5.6680002"
+             y="8.8789997"
+             x="0.375"
+             style="fill:url(#XMLID_6_);stroke:black;stroke-width:0.75" />
+        </g>
+      </g>
+    </g>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g-wp-half-v"
+       id="linearGradient926"
+       x1="1853.1765"
+       y1="137.92331"
+       x2="1853.1765"
+       y2="161.90998"
+       gradientTransform="matrix(0.48360208,0,0,2.0678158,15.571831,0)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#g-wp-quarter-v"
+       id="linearGradient928"
+       x1="1749.7857"
+       y1="137.92331"
+       x2="1749.7857"
+       y2="161.90998"
+       gradientTransform="matrix(0.48360208,0,0,2.0678158,11.678873,0)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     x="0"
+     y="40"
+     width="1250"
+     height="565"
+     fill="white"
+     id="rect438" />
+  <g
+     id="arm-boxes"
+     fill="none"
+     stroke="#555"
+     stroke-width="1.8"
+     stroke-dasharray="9 6">
+    <rect
+       x="42"
+       y="290"
+       width="308"
+       height="136"
+       rx="6"
+       id="rect440" />
+    <rect
+       x="838.37488"
+       y="167.94933"
+       width="381.6759"
+       height="185.60947"
+       rx="5.8719368"
+       id="rect442"
+       style="stroke-width:1.69853" />
+  </g>
+  <text
+     x="108.18031"
+     y="280"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30px"
+     text-anchor="start"
+     id="text445">Cancel arm</text>
+  <text
+     x="939.00244"
+     y="158"
+     font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+     font-size="30px"
+     text-anchor="start"
+     id="text447">Return arm</text>
+  <g
+     id="optics">
+    <polygon
+       points="430,250 600,250 430,420"
+       fill="#eef3f6"
+       stroke="#000"
+       stroke-width="2.8"
+       stroke-linejoin="miter"
+       id="polygon449" />
+    <polygon
+       points="800,250 630,250 800,420"
+       fill="#eef3f6"
+       stroke="#000"
+       stroke-width="2.8"
+       stroke-linejoin="miter"
+       id="polygon451" />
+    <rect
+       x="430"
+       y="96"
+       width="370"
+       height="14"
+       fill="#000"
+       stroke="#000"
+       stroke-width="1"
+       id="rect453" />
+    <rect
+       x="430"
+       y="110"
+       width="370"
+       height="46"
+       fill="url(#g-mirror-h)"
+       stroke="#0000e0"
+       stroke-width="2.8"
+       id="rect455" />
+    <rect
+       x="430"
+       y="520"
+       width="370"
+       height="14"
+       fill="#000"
+       stroke="#000"
+       stroke-width="1"
+       id="rect457" />
+    <rect
+       x="430"
+       y="474"
+       width="370"
+       height="46"
+       fill="url(#g-mirror-h)"
+       stroke="#a52a2a"
+       stroke-width="2.8"
+       id="rect459" />
+    <rect
+       x="58"
+       y="322"
+       width="14"
+       height="84"
+       fill="#000"
+       stroke="#000"
+       stroke-width="1"
+       id="rect461" />
+    <rect
+       x="72"
+       y="322"
+       width="34"
+       height="84"
+       fill="url(#g-mirror-v)"
+       stroke="#a52a2a"
+       stroke-width="2.8"
+       id="rect463" />
+    <rect
+       x="176"
+       y="318"
+       width="30"
+       height="32"
+       fill="#eef3f6"
+       stroke="#9400d3"
+       stroke-width="2.8"
+       id="rect465" />
+    <line
+       x1="185"
+       y1="318"
+       x2="185"
+       y2="350"
+       stroke="#9400d3"
+       stroke-width="1.2"
+       id="line467" />
+    <polygon
+       points="288,305.0 330,347.0 288,389.0"
+       fill="#eef3f6"
+       stroke="#9400d3"
+       stroke-width="2.8"
+       stroke-linejoin="miter"
+       id="polygon469" />
+    <rect
+       x="950"
+       y="285"
+       width="50"
+       height="50"
+       fill="url(#g-bs)"
+       stroke="#800080"
+       stroke-width="2.8"
+       id="rect471" />
+    <line
+       x1="950"
+       y1="335"
+       x2="1000"
+       y2="285"
+       stroke="#800080"
+       stroke-width="2.8"
+       id="line473" />
+    <polygon
+       points="950,253 1000,203 1000,253"
+       fill="#eef3f6"
+       stroke="#800080"
+       stroke-width="2.8"
+       stroke-linejoin="miter"
+       id="polygon475" />
+    <rect
+       x="1184"
+       y="198"
+       width="14"
+       height="142"
+       fill="#000"
+       stroke="#000"
+       stroke-width="1"
+       id="rect477" />
+    <rect
+       x="1150"
+       y="198"
+       width="34"
+       height="142"
+       fill="url(#g-mirror-v)"
+       stroke="#a52a2a"
+       stroke-width="2.8"
+       id="rect479" />
+    <rect
+       x="872"
+       y="375"
+       width="50"
+       height="50"
+       fill="url(#g-bs)"
+       stroke="#000"
+       stroke-width="2.0"
+       id="rect481" />
+    <line
+       x1="872"
+       y1="375"
+       x2="922"
+       y2="425"
+       stroke="#000"
+       stroke-width="2.0"
+       id="line483" />
+  </g>
+  <g
+     id="beams">
+    <polyline
+       points="897,552 897,400 780,400 780,133.0"
+       fill="none"
+       stroke="#1f77d0"
+       stroke-width="2.6"
+       stroke-linejoin="miter"
+       id="polyline488" />
+    <polyline
+       points="690,133.0 690,310 1167.0,310"
+       fill="none"
+       stroke="#1f77d0"
+       stroke-width="2.6"
+       stroke-linejoin="miter"
+       id="polyline490" />
+    <polyline
+       points="1167.0,228 975,228 975,310"
+       fill="none"
+       stroke="#1f77d0"
+       stroke-width="2.6"
+       stroke-linejoin="miter"
+       id="polyline492" />
+    <polyline
+       points="480,133.0 480,370 89.0,370"
+       fill="none"
+       stroke="#1f77d0"
+       stroke-width="2.6"
+       stroke-linejoin="miter"
+       id="polyline494" />
+    <polyline
+       points="89.0,362 315.0,362 315.0,332 190,332"
+       fill="none"
+       stroke="#d62728"
+       stroke-width="2.6"
+       stroke-linejoin="miter"
+       id="polyline496" />
+    <polyline
+       points="190,340 510,340 510,133.0"
+       fill="none"
+       stroke="#1f77d0"
+       stroke-width="2.6"
+       stroke-linejoin="miter"
+       id="polyline498" />
+    <line
+       x1="450"
+       y1="133.0"
+       x2="450"
+       y2="497.0"
+       stroke="#d62728"
+       stroke-width="2.6"
+       id="line500" />
+    <line
+       x1="540"
+       y1="133.0"
+       x2="540"
+       y2="497.0"
+       stroke="#d62728"
+       stroke-width="2.6"
+       id="line502" />
+    <line
+       x1="720"
+       y1="133.0"
+       x2="720"
+       y2="497.0"
+       stroke="#d62728"
+       stroke-width="2.6"
+       id="line504" />
+    <line
+       x1="750"
+       y1="133.0"
+       x2="750"
+       y2="497.0"
+       stroke="#d62728"
+       stroke-width="2.6"
+       id="line506" />
+    <line
+       x1="89.0"
+       y1="362"
+       x2="89.0"
+       y2="370"
+       stroke="#666"
+       stroke-width="1.4"
+       id="line508" />
+    <line
+       x1="190"
+       y1="332"
+       x2="190"
+       y2="340"
+       stroke="#666"
+       stroke-width="1.4"
+       id="line510" />
+    <polyline
+       points="897,400 947,400 947,605"
+       fill="none"
+       stroke="#1f77d0"
+       stroke-width="2.6"
+       stroke-linejoin="miter"
+       stroke-dasharray="10 7"
+       id="polyline512" />
+  </g>
+  <g
+     id="waveplates">
+    <rect
+       x="858.67883"
+       y="286"
+       width="10"
+       height="48"
+       fill="url(#g-wp-quarter-v)"
+       stroke="#000000"
+       stroke-width="1.6"
+       id="rect515"
+       style="fill:url(#linearGradient928)" />
+    <text
+       x="863.67883"
+       y="278"
+       font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+       font-size="26px"
+       text-anchor="middle"
+       id="text517">λ/4</text>
+    <rect
+       x="912.57178"
+       y="286"
+       width="10"
+       height="48"
+       fill="url(#g-wp-half-v)"
+       stroke="#000000"
+       stroke-width="1.6"
+       id="rect519"
+       style="fill:url(#linearGradient926)" />
+    <text
+       x="917.57178"
+       y="278"
+       font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+       font-size="26px"
+       text-anchor="middle"
+       id="text521">λ/2</text>
+    <rect
+       x="1097"
+       y="204"
+       width="10"
+       height="48"
+       fill="url(#g-wp-quarter-v)"
+       stroke="#000"
+       stroke-width="1.6"
+       id="rect523" />
+    <text
+       x="1102"
+       y="196"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="26"
+       text-anchor="middle"
+       id="text525">λ/4</text>
+    <rect
+       x="1047"
+       y="204"
+       width="10"
+       height="48"
+       fill="url(#g-wp-half-v)"
+       stroke="#000"
+       stroke-width="1.6"
+       id="rect527" />
+    <text
+       x="1052"
+       y="196"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="26"
+       text-anchor="middle"
+       id="text529">λ/2</text>
+    <rect
+       x="873"
+       y="460"
+       width="48"
+       height="10"
+       fill="url(#g-wp-quarter-h)"
+       stroke="#000"
+       stroke-width="1.6"
+       id="rect531" />
+    <text
+       x="865"
+       y="474"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="26"
+       text-anchor="end"
+       id="text533">λ/4</text>
+    <rect
+       x="873"
+       y="510"
+       width="48"
+       height="10"
+       fill="url(#g-wp-half-h)"
+       stroke="#000"
+       stroke-width="1.6"
+       id="rect535" />
+    <text
+       x="865"
+       y="524"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="26"
+       text-anchor="end"
+       id="text537">λ/2</text>
+  </g>
+  <use
+     xlink:href="#lib-fiber-coupler"
+     transform="translate(872.06 589.41) rotate(-90) scale(2.2)"
+     id="use540" />
+  <g
+     id="arrows">
+    <polygon
+       points="450,214.0 443,196.0 457,196.0"
+       fill="#d62728"
+       stroke="#d62728"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon542" />
+    <polygon
+       points="480,214.0 473,196.0 487,196.0"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon544" />
+    <polygon
+       points="510,196.0 503,214.0 517,214.0"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon546" />
+    <polygon
+       points="540,196.0 533,214.0 547,214.0"
+       fill="#d62728"
+       stroke="#d62728"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon548" />
+    <polygon
+       points="690,214.0 683,196.0 697,196.0"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon550" />
+    <polygon
+       points="720,214.0 713,196.0 727,196.0"
+       fill="#d62728"
+       stroke="#d62728"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon552" />
+    <polygon
+       points="750,196.0 743,214.0 757,214.0"
+       fill="#d62728"
+       stroke="#d62728"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon554" />
+    <polygon
+       points="780,196.0 773,214.0 787,214.0"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon556" />
+    <polygon
+       points="375.0,370 393.0,363 393.0,377"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon558" />
+    <polygon
+       points="393.0,340 375.0,333 375.0,347"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon560" />
+    <polygon
+       points="256.0,362 238.0,355 238.0,369"
+       fill="#d62728"
+       stroke="#d62728"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon562" />
+    <polygon
+       points="238.0,332 256.0,325 256.0,339"
+       fill="#d62728"
+       stroke="#d62728"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon564" />
+    <polygon
+       points="817,317 835,310 817,303 "
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon566"
+       transform="translate(-7.7859154)" />
+    <polygon
+       points="817.0,400 835.0,393 835.0,407"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon568" />
+    <polygon
+       points="1135.0,310 1117.0,303 1117.0,317"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon570" />
+    <polygon
+       points="1117.0,228 1135.0,221 1135.0,235"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon572" />
+    <polygon
+       points="975,278.0 968,260.0 982,260.0"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon574" />
+    <polygon
+       points="897,531 890,549 904,549 "
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon576"
+       transform="translate(0,-97.323952)" />
+    <polygon
+       points="947,549.0 940,531.0 954,531.0"
+       fill="#1f77d0"
+       stroke="#1f77d0"
+       stroke-width="0.8"
+       stroke-linejoin="miter"
+       id="polygon578" />
+  </g>
+  <g
+     id="labels">
+    <text
+       x="450"
+       y="88"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text581">2</text>
+    <text
+       x="480"
+       y="88"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text583">4</text>
+    <text
+       x="510"
+       y="88"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text585">5</text>
+    <text
+       x="540"
+       y="88"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text587">7</text>
+    <text
+       x="690"
+       y="88"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text589">8</text>
+    <text
+       x="720"
+       y="88"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text591">6</text>
+    <text
+       x="750"
+       y="88"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text593">3</text>
+    <text
+       x="780"
+       y="88"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text595">1</text>
+    <text
+       x="450"
+       y="564"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text597">2</text>
+    <text
+       x="540"
+       y="564"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text599">7</text>
+    <text
+       x="720"
+       y="564"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text601">6</text>
+    <text
+       x="750"
+       y="564"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text603">3</text>
+    <text
+       x="109.82607"
+       y="81.677742"
+       font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+       font-size="30px"
+       text-anchor="start"
+       id="text605">Moving corner cube</text>
+    <text
+       x="410"
+       y="529.35767"
+       font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+       font-size="30px"
+       text-anchor="end"
+       id="text607">Fixed corner cube</text>
+    <text
+       x="420"
+       y="331"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="end"
+       id="text609">5</text>
+    <text
+       x="420"
+       y="398"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="end"
+       id="text611">4</text>
+    <text
+       x="141.0"
+       y="352"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text613">A</text>
+    <text
+       x="222.0"
+       y="322"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="28"
+       text-anchor="middle"
+       id="text615">B</text>
+    <text
+       x="1041.1803"
+       y="294.927"
+       font-family="'DejaVu Serif', 'Times New Roman', Times, serif"
+       font-size="26px"
+       text-anchor="middle"
+       id="text617">PBS</text>
+    <text
+       x="862"
+       y="387"
+       font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+       font-size="26"
+       text-anchor="end"
+       id="text619">PBS</text>
+  </g>
+  <g
+     id="motion"
+     stroke="#222"
+     stroke-width="2.2"
+     fill="#222">
+    <line
+       x1="406"
+       y1="106"
+       x2="406"
+       y2="160"
+       id="line622" />
+    <polygon
+       points="406,94 399,107 413,107"
+       stroke="none"
+       id="polygon624" />
+    <polygon
+       points="406,172 399,159 413,159"
+       stroke="none"
+       id="polygon626" />
+  </g>
+  <g
+     id="axes"
+     stroke="#000"
+     stroke-width="2.2"
+     fill="#000">
+    <line
+       x1="81"
+       y1="196"
+       x2="130"
+       y2="196"
+       id="line629" />
+    <polygon
+       points="144,196 130,189 130,203"
+       stroke="none"
+       id="polygon631" />
+    <line
+       x1="70"
+       y1="185"
+       x2="70"
+       y2="136"
+       id="line633" />
+    <polygon
+       points="70,122 63,136 77,136"
+       stroke="none"
+       id="polygon635" />
+    <circle
+       cx="70"
+       cy="196"
+       r="10"
+       fill="white"
+       id="circle637" />
+    <circle
+       cx="70"
+       cy="196"
+       r="3.4"
+       stroke="none"
+       id="circle639" />
+  </g>
+  <text
+     x="162"
+     y="205"
+     font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+     font-size="30"
+     text-anchor="middle"
+     font-style="italic"
+     id="text642">x</text>
+  <text
+     x="70"
+     y="114"
+     font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+     font-size="30"
+     text-anchor="middle"
+     font-style="italic"
+     id="text644">y</text>
+  <text
+     x="100"
+     y="226"
+     font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+     font-size="30"
+     text-anchor="middle"
+     font-style="italic"
+     id="text646">z</text>
+  <line
+     x1="1000"
+     y1="452"
+     x2="1040"
+     y2="452"
+     stroke="#1f77d0"
+     stroke-width="2.6"
+     id="line648" />
+  <text
+     x="1052"
+     y="461"
+     font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text650">lower level</text>
+  <line
+     x1="1000"
+     y1="490"
+     x2="1040"
+     y2="490"
+     stroke="#d62728"
+     stroke-width="2.6"
+     id="line652" />
+  <text
+     x="1052"
+     y="499"
+     font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text654">upper level</text>
+  <line
+     x1="1000"
+     y1="528"
+     x2="1040"
+     y2="528"
+     stroke="#1f77d0"
+     stroke-width="2.6"
+     stroke-dasharray="10 7"
+     id="line656" />
+  <text
+     x="1052"
+     y="537"
+     font-family="DejaVu Serif, 'Times New Roman', Times, serif"
+     font-size="26"
+     text-anchor="start"
+     id="text658">exit beam</text>
+  <metadata
+     id="metadata660">
+    <c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiYzk1NDFmZi1hYmM2LTQ0NGMtYjBiNy02ZjEzMDdlMTQxYzEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaERH1Ui5vhgcpnpcU5NQZmUAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxYzU5NDE0MS03ZDBjLTQ5OTAtYTNiNS1mZTZhODc5OTExYTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoU3Anyjc6OIos8uMqSb0FQgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggJ9XzBRf8FxLbD0fnzOgTRZyMSOQOHdaLJRqg+MEVN/WkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLQ+E9/xEoHVFsLuhAMP1R8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIFBClg1d0rDP8psUkoUrzBk6uA3Pemp9qQnVMEZ9+GwTZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GUJkZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmJjOTU0MWZmLWFiYzYtNDQ0Yy1iMGI3LTZmMTMwN2UxNDFjMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc3NDdjNjI3LTlhNzctNDkyMi04YmQzLWY5MzgzNTBmOGI4MXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAn1fMFF/wXEtsPR+fM6BNFnIxI5A4d1oslGqD4wRU39aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggj3Gt5KNpqIgQ6EMIB/QndjHlRUl5KQTvadmDYc8MdRmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggWGQv6OH2eaDNee73+Z3NZPQSXqecC+yApa6ZuRupaQF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJ9kyeqvNNrOXrd3FiUIeOq/Ku/e+sellL2LuL4Kp13yU1Ap+eO6LY9C2+tcKQ7AiXJfHcbd9mM3U6nM5ShbiKY=</c2pa:manifest>
+  </metadata>
+</svg>
